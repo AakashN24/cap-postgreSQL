@@ -2,13 +2,18 @@
 
 Welcome to your new project.
 
-It contains these folders and files, following our recommended project layout:
+just an testing app for deploying the capm app to btpstrial with postgreSQL as db
 
+## Future Plans
+- Use postgreSQL native artifacts
+
+## Projet Structure
 File or Folder | Purpose
 ---------|----------
 `app/` | content for UI frontends goes here
 `db/` | your domain models and data go here
 `srv/` | your service models and code go here
+`mta.yaml`|deployment configuration with postgreSQL instance
 `package.json` | project metadata and configuration
 `readme.md` | this getting started guide
 
